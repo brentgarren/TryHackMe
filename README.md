@@ -1,5 +1,5 @@
 # <h1> <a href="https://tryhackme.com/p/Elzrath">TryHackMe</h1></a>
-<h2> Current Rank: <b>Top 2% 37285</b></h2>
+<h2> Current Rank: <b>Top 2% 35688</b></h2>
 
 My Progress and self Study through the Tryhackme Program
 
